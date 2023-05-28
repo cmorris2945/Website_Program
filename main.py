@@ -16,7 +16,7 @@ with col2:
         make sense of genomic sequences, protein structures, and metabolic pathways. My research primarily focuses on public health-related topics such as identifying genetic risk factors for diseases, 
         understanding the impact of environmental changes on pathogen evolution, and monitoring the spread of infectious diseases across the state.
        """
-    st.info(content)
+    st.info(content
 
 
 
